@@ -118,10 +118,10 @@ a {
 }
 
 .button {
-  background-color: #054705;
+  background-color: #1d381d;
   border-radius: 300486px;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
-  color: rgb(206, 136, 70);
+  color: #ffba7a;
   display: inline-block;
   font-size: 0.875rem;
   line-height: 1;
